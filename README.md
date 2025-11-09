@@ -9,7 +9,6 @@ A short educational document promoting safe digital habits for secondary school 
 
 # Purpose
 This mini-project is meant for classroom use or as a public awareness handout.  
-You can share it on GitHub, school websites, or print it as a digital safety guide.
 
 # How to Use
 1. Clone or download this repository.  
